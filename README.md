@@ -13,7 +13,7 @@ Search and extract Posts, Groups, Pages, People, Events, Videos, Reels, and Mark
 <br>
 
 **👤 Author:** [Mina Wagih](https://github.com/MinaWagihz)  
-**🎓 Supervised by:** Eng. Mohamed Hemdan
+**🎓 Supervised by:** [Eng. Mohamed Hemdan](https://github.com/mohamed66Hemdan)
 
 
 </div>
@@ -282,7 +282,7 @@ Pull requests are welcome! For major changes, please open an issue first.
 ## 👥 Authors & Supervision
 
 - **Author:** [Mina Wagih](https://github.com/MinaWagihz) ([@MinaWagihz](https://github.com/MinaWagihz))
-- **Supervision:** Eng. Mohamed Hemdan
+- **Supervision:** [Eng. Mohamed Hemdan](https://github.com/mohamed66Hemdan)
 
 ---
 
